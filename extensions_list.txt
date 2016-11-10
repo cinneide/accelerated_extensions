@@ -1,3 +1,3 @@
 EMC Infoblox,com.emc.clouddevcoe.emc_infoblox.package
-EMC Standard DNS,com.emc.clouddevcoe.emc_standard_dns.package
+Standard DNS,com.emc.clouddevcoe.starterproject.extensions.standard_dns.package
 EMC Standard Service Now CMDB,com.emc.clouddevcoe.emc_standard_snow_cmdb.package
