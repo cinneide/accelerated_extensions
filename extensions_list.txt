@@ -1,3 +1,4 @@
 EMC Infoblox,com.emc.clouddevcoe.starterproject.extensions.infoblox.package
 Standard DNS,com.emc.clouddevcoe.starterproject.extensions.standard_dns.package
 EMC Standard Service Now CMDB,com.emc.clouddevcoe.emc_standard_snow_cmdb.package
+EMC vRA 7 Infoblox, AEP.extensions.infoblox.v1.package 
