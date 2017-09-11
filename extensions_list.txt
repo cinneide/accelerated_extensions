@@ -1,4 +1,4 @@
 EMC Infoblox,com.emc.clouddevcoe.starterproject.extensions.infoblox.package
 Dell | EMC Standard DNS,AEP.extensions.dns.v1.package
-Dell | EMC Standard Service Now CMDB,AEPv1.extensions.servicenow.v1.package
+Dell | EMC Standard Service Now CMDB,AEP.extensions.servicenow.v1.package
 Dell | EMC Infoblox, AEP.extensions.infoblox.v1.package 
